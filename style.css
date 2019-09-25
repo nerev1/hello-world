@@ -1,0 +1,10 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+p {
+    text-indent: 20px;
+}
+
